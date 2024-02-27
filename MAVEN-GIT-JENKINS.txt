@@ -1,0 +1,56 @@
+[root@ip-172-31-95-118 target]# history
+    1  yum update -y
+    2  yum install git -y
+    3  git --version
+    4  yum install java* -y
+    5  sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+    6    sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
+    7  yum install fontconfig java-17-openjdk
+    8    yum install jenkins
+    9  systemctl status jenkins
+   10  systemctl start jenkins
+   11  systemctl status jenkins
+   12  systemctl enable jenkins
+   13  cat /var/lib/jenkins/secrets/initialAdminPassword
+   14  cd /opt
+   15  wget https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz
+   16  ls -altr
+   17  tar -xvzf apache-maven-3.9.6-bin.tar.gz
+   18  ls -altr
+   19  mv apache-maven-3.9.6 maven
+   20  ls -altr
+   21  cd maven/
+   22  ll
+   23  cd bin
+   24  ls
+   25  ./mvn -v
+   26  cd ..
+   27  ./mvn -v
+   28  cd ~
+   29  ls -altr
+   30  vi .bash_profile 
+   31  vi .bash_profile 
+   32  source .bash_profile
+   33  echo PATH
+   34   echo $PATH
+   35  ./mvn -v
+   36  mvn -v
+   37  cd /var/lib
+   38  ls
+   39  cd jenkins/
+   40  ls
+   41   echo $PATH
+   42  find java
+   43   find / -name java-11*
+   44  mvn -v
+   45  ls
+   46  cd workspace/
+   47  ls
+   48  cd new_maven-project/
+   49  ls
+   50  cd webapp/
+   51  ls
+   52  cd target/
+   53  ls
+   54  history
+[root@ip-172-31-95-118 target]# 

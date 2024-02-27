@@ -1,0 +1,31 @@
+S.No	Difficulty of Usecase	Use Case  Title	Skill(s)	Avg Time to Complete (mins)
+1	Beginner	CloudFormation Helper Scripts	Amazon CloudFormation	45
+2	Beginner	Build an application and run using docker compose	Docker	45
+3	Beginner	Hands-On CloudFormation for Deploy Scalability	Amazon CloudFormation	120
+4	Beginner	Creating an EKS Cluster in AWS	EKS	100
+5	Intermediate	Introduction to CodeCommit	AWS CodeCommit	40
+6	Intermediate	Build your first OpsWorks stack	Amazon EC2,Amazon VPC,AWS OpsWorks	60
+7	Intermediate	Configuring Auto Scaling Rules for an  AWS Fargate Cluster	AutoScaling	100
+8	Intermediate	Amazon EKS - Launch Kubernetes Cluster and Deploy Wordpress	Amazon EKS	100
+9	Intermediate	Automating ECS Deployments Using AWS Lambda	Lambda	100
+10	Intermediate	Deploying a Task Using AWS Fargate	Fargate	80
+11	Intermediate	Configure FTP service with S3 backend using S3FS	Amazon Simple Storage Service (S3)	60
+12	Intermediate	AWS Auto Scaling Testing and Tuning	AutoScaling Group	100
+13	Intermediate	Using AWS S3 to Store ELB Access Logs	S3	80
+14	Intermediate	Deploying an Application with AWS OpsWorks	OpsWorks	100
+15	Intermediate	Blue/Green Deployments with AWS Elastic Beanstalk	Elastic Beanstalk	100
+16	Intermediate	Redeploy a Failed Deployment with AWS Elastic Beanstalk	Elastic Beanstalk	100
+17	Intermediate	AWS Auto Scaling Lifecycle Hooks	Auto Scaling	90
+18	Intermediate	PreBake AWS AMIs for Auto Scaling	Auto Scaling	100
+19	Intermediate	AWS VPC Endpoints for S3	Amazon VPC, EC2	60
+20	Intermediate	Upgrading the Kubernetes Cluster Using AWS CLI Commands for EKS	Amazon EKS	100
+21	Intermediate	Deploying an Application to EKS	Application	100
+22	Intermediate	Managing Secrets with Kubernetes	Amazon EKS	100
+23	Intermediate	Using Secrets Manager to authenticate with an RDS database using Lambda	RDS,Lambda	90
+24	Advanced	Create a two tire application using docker	Docker	
+25	Advanced	AWS Lambda Versioning and Aliases from the CLI	Lambda	60
+26	Advanced	Static Code Analysis Within CI/CD Pipelines	Devops	100
+27	Advanced	Create a three tire application using docker	Docker	60
+28	Advanced	Orchestrate application using docker swam	Docker	60
+29	Advanced	Report docker status using docker native tools	Docker	60
+30	Advanced	AWS_VPC_Creation	AWS	100

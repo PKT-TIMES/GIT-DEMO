@@ -1,0 +1,18 @@
+ 1  yum install git -y
+    2  git --version
+    3  yum install java*
+    4  yum install jenkins -y
+    5   yum install jenkins
+    6    sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+    7    sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
+    8    yum install fontconfig java-17-openjdk
+    9  yum install jenkins -y
+   10  ls -altr
+   11  systemctl status jenkins
+   12  systemctl start jenkins
+   13  systemctl enable jenkins
+   14  systemctl is-active jenkins
+   15  systemctl status jenkins
+   16  cat /var/lib/jenkins/secrets/initialAdminPassword
+   17  history
+[root@ip-172-31-43-144 ec2-user]# 
